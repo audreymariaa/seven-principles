@@ -1,0 +1,24 @@
+body {
+    background-color: #45894dcf;
+    color: rgb(63, 23, 23);
+}
+
+main {
+    max-width: 600px;
+    margin-left:auto ;
+    margin-right:auto ;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 9o%;
+ }
+
+ .blue {
+    color: rgb(14, 14, 128);
+ }
+
+ .fancy {
+    color: blueviolet;
+ }
